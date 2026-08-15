@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Мулин Александр — Junior Web-разработчик | Резюме</title>
+<meta name="description" content="Мулин Александр — Junior Web-разработчик (Frontend). Создал SPA-приложение с 480+ рецептами и ИИ-ассистентом. Работаю удалённо. Ищу работу.">
+<meta property="og:title" content="Мулин Александр — Junior Web-разработчик">
+<meta property="og:description" content="Web-разработчик, автоматизация с помощью ИИ. Открыт к удалённой работе.">
+<style>
+  :root {
+    --bg: #0b0e14;
+    --card: #131722;
+    --border: #232a3a;
+    --text: #e6e9f0;
+    --muted: #9aa3b5;
+    --accent: #4f8cff;
+    --accent2: #22c55e;
+    --gold: #f0a64a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 48px 24px 80px; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    padding: 28px 30px;
+    margin-bottom: 20px;
+  }
+  .head { text-align: center; padding: 36px 30px 30px; }
+  .avatar {
+    width: 96px; height: 96px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--accent), var(--gold));
+    margin: 0 auto 18px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 38px; font-weight: 700; color: #fff;
+  }
+  h1 { font-size: 30px; font-weight: 800; letter-spacing: 0.3px; }
+  .role { color: var(--gold); font-weight: 600; margin: 6px 0 4px; font-size: 17px; }
+  .badges { display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-top: 16px; }
+  .badge {
+    background: var(--bg); border: 1px solid var(--border); border-radius: 999px;
+    padding: 7px 16px; font-size: 13px; color: var(--muted); text-decoration: none;
+    transition: .2s;
+  }
+  .badge:hover { border-color: var(--accent); color: var(--text); }
+  h2 {
+    font-size: 19px; font-weight: 700; margin-bottom: 16px;
+    display: flex; align-items: center; gap: 10px; color: var(--accent);
+  }
+  h3 { font-size: 16px; margin: 14px 0 8px; }
+  p, li { color: var(--text); }
+  .muted { color: var(--muted); }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip {
+    background: var(--bg); border: 1px solid var(--border); border-radius: 8px;
+    padding: 5px 11px; font-size: 13px; color: var(--text);
+  }
+  .chip.hl { border-color: var(--accent); color: var(--accent); }
+  .proj {
+    border: 1px solid var(--border); border-radius: 14px; padding: 20px;
+    background: var(--bg); margin-bottom: 12px;
+  }
+  .proj .links { margin: 10px 0 8px; }
+  .proj a {
+    color: var(--accent); font-weight: 600; text-decoration: none; margin-right: 18px;
+  }
+  .proj a:hover { text-decoration: underline; }
+  ul { padding-left: 20px; }
+  li { margin-bottom: 6px; }
+  .cta {
+    text-align: center; background: linear-gradient(135deg, var(--accent), var(--gold));
+    border: none; color: #fff; padding: 30px;
+  }
+  .cta h2 { color: #fff; justify-content: center; }
+  .cta p { color: rgba(255,255,255,0.92); }
+  .footer { text-align: center; color: var(--muted); font-size: 13px; margin-top: 8px; }
+  @media (max-width: 600px) {
+    .wrap { padding: 20px 12px 60px; }
+    .card { padding: 20px 16px; }
+    h1 { font-size: 24px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="card head">
+    <div class="avatar">АМ</div>
+    <h1>Мулин Александр Валерьевич</h1>
+    <div class="role">Junior Web-разработчик (Frontend) · Удалённо</div>
+    <div class="muted">Иркутск, РФ · приоритет поиска — Санкт-Петербург и Москва</div>
+    <div class="badges">
+      <a class="badge" href="mailto:mawr76894@gmail.com">✉ mawr76894@gmail.com</a>
+      <a class="badge" href="https://github.com/aleksejsum113-lab">GitHub</a>
+      <a class="badge" href="https://samogon-app.vercel.app">Проект</a>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>👋 О себе</h2>
+    <p>Самоучка с <b>реальным проектом в продакшене</b>: сам придумал, спроектировал и запустил веб-приложение с нуля — от идеи до SEO-продвижения.</p>
+    <p style="margin-top:10px">Профессионально работаю с <b>нейросетями</b> (Claude, ChatGPT): генерирую и рефакторю код, автоматизирую рутину, быстро осваиваю новые технологии. Могу снять рутину с сотрудников вашей компании и внедрить ИИ-инструменты.</p>
+  </div>
+
+  <div class="card">
+    <h2>🛠 Стек и навыки</h2>
+    <div class="chips">
+      <span class="chip">HTML5</span>
+      <span class="chip">CSS3</span>
+      <span class="chip hl">JavaScript (ES6+)</span>
+      <span class="chip">JSON</span>
+      <span class="chip">Vite</span>
+      <span class="chip">Tailwind CSS</span>
+      <span class="chip">Git / GitHub</span>
+      <span class="chip">Firebase (Auth, Firestore)</span>
+      <span class="chip">REST API</span>
+      <span class="chip hl">AI / OpenRouter API</span>
+      <span class="chip">Vercel</span>
+      <span class="chip">PWA / Service Worker</span>
+      <span class="chip">Serverless</span>
+      <span class="chip">SEO / Schema.org</span>
+      <span class="chip">i18n</span>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>💼 Проекты</h2>
+    <div class="proj">
+      <h3>🥃 «Самогонщик Pro» — SPA-приложение (в продакшене)</h3>
+      <div class="links">
+        <a href="https://samogon-app.vercel.app" target="_blank" rel="noopener">🌐 samogon-app.vercel.app</a>
+        <a href="https://github.com/aleksejsum113-lab/samogon-app" target="_blank" rel="noopener">📁 Код на GitHub</a>
+      </div>
+      <ul>
+        <li>480+ рецептов с пошаговой инструкцией и предрендером страниц для SEO</li>
+        <li>14 интерактивных калькуляторов (разбавление спирта, крепость браги и др.)</li>
+        <li>ИИ-ассистент «Саныч» на нейросети через OpenRouter API</li>
+        <li>Авторизация и данные через Firebase (Auth + Firestore)</li>
+        <li>PWA: офлайн-работа, установка на телефон, Service Worker</li>
+        <li>Мультиязычность (RU/EN/DE/ES), SEO: Schema.org, sitemap (487 URL), Google Search Console</li>
+        <li>Автодеплой GitHub → Vercel, serverless-функции</li>
+      </ul>
+    </div>
+    <p class="muted">Чем горжусь: выстроил полный цикл — от идеи и дизайна до продвижения в поиске, с продуманной архитектурой и вниманием к UX.</p>
+  </div>
+
+  <div class="card">
+    <h2>🚀 Что могу сделать для компании</h2>
+    <ul>
+      <li><b>Автоматизация рутины:</b> скрипты, боты, ИИ-ассистенты для поддержки и документооборота</li>
+      <li><b>Сайты и лендинги:</b> быстрые, адаптивные, с SEO и аналитикой</li>
+      <li><b>Веб-приложения:</b> под ключ — авторизация, базы данных, ИИ-интеграции</li>
+      <li><b>Доработка проектов:</b> правки, багфиксы, новые фичи, оптимизация</li>
+    </ul>
+  </div>
+
+  <div class="card cta">
+    <h2>Открыт к предложениям</h2>
+    <p>Удалённая работа, стажировки, проектная занятость. Готов к тестовому заданию.</p>
+    <p style="margin-top:10px; font-weight:700">📩 mawr76894@gmail.com</p>
+  </div>
+
+  <div class="footer">© 2026 Мулин Александр · Сделано вручную, без шаблонов</div>
+</div>
+</body>
+</html>
