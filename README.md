@@ -4,11 +4,9 @@
 [![Email](https://img.shields.io/badge/mawr76894@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mawr76894@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-написать-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-aleksejsum113--lab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aleksejsum113-lab)
-![Локация](https://img.shields.io/badge/Иркутск,_РФ-8B0000?style=flat-square&logo=location&logoColor=white)
 
 **Желаемая позиция:** Junior Frontend Developer / Web-разработчик
 **Формат:** удалённо (полный день / проектная занятость)
-**География:** Иркутск (приоритет поиска — Санкт-Петербург и Москва, готов к релокации при удалённом формате)
 
 ---
 

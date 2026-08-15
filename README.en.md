@@ -3,11 +3,9 @@
 
 [![Email](https://img.shields.io/badge/mawr76894@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mawr76894@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-aleksejsum113--lab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aleksejsum113-lab)
-![Location](https://img.shields.io/badge/Irkutsk,_RU-8B0000?style=flat-square&logo=location&logoColor=white)
 
 **Target role:** Junior Frontend Developer / Web Developer
 **Work format:** Remote (full-time / project-based)
-**Location:** Irkutsk, Russia (priority: St. Petersburg & Moscow — open to remote cooperation)
 
 ---
 
