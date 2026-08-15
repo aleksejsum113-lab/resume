@@ -1,4 +1,4 @@
-# Alexander Mulin
+# Alexander Nevsky
 ### Junior Web Developer (Frontend) · Remote · Russia
 
 [![Email](https://img.shields.io/badge/mawr76894@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mawr76894@gmail.com)
